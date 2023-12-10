@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CitaRasaBunda</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_profile">Profile </string>
+    <string name="required_price">Rp.%d,00</string>
+    <string name="add_to_cart">Tambah ke Keranjang :Rp.%d,00</string>
+    <string name="total_order">Total pesanan : Rp.%d,00</string>
+    <string name="back">Back</string>
+    <string name="my_name">Faradhiya Aulia Rahma</string>
+    <string name="email">a296bsx2569@bangkit.academy</string>
+    <string name="button_search">Mau makan apa hari ini?</string>
+    <string name="share_message">Hey, You need to pay Rp.%2$d,00 for %1$d menus. Make the payment first!</string>
+    <string name="item_food">Menu Cita Rasa Bunda</string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+</resources>
